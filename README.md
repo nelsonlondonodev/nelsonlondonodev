@@ -9,5 +9,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nelsonlondonodev/nelsonlondonodev)
 
 ### ⚡: actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
