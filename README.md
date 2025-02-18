@@ -7,3 +7,8 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fnelsonlondono.es%2F)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nelsonlondonodev/nelsonlondonodev)
+
+### ⚡: actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
