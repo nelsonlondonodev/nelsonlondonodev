@@ -4,7 +4,7 @@
 
 ### Contact
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fnelsonlondono.es%2F)
+![Website](https://nelsonlondono.es/)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nelsonlondonodev/nelsonlondonodev)
 
