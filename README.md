@@ -26,7 +26,8 @@ Sin frameworks pesados cuando no hacen falta. HTML semántico, Tailwind CSS y Ja
 modular compilado con esbuild, más scripts propios en Node para lo que el proyecto pida:
 cache-busting, generación de sitemap y un validador de datos estructurados que rompe el
 build antes de que un JSON-LD roto llegue a producción. Cuando el proyecto pide
-estado e interfaz de verdad, React.
+estado e interfaz de verdad, React, con Supabase detrás para
+persistencia, autenticación y API.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -35,6 +36,8 @@ estado e interfaz de verdad, React.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Schema.org](https://img.shields.io/badge/Schema.org-2C4F7C?style=flat&logo=json&logoColor=white)
 
 ### Algunas cosas que he hecho
