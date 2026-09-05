@@ -41,7 +41,7 @@ build antes de que un JSON-LD roto llegue a producción.
 | --- | --- |
 | [**WebAgenciaMkt**](https://github.com/nelsonlondonodev/WebAgenciaMkt) | El sitio de mi agencia. Build propio en Node, validación de datos estructurados dentro del pipeline y auditorías de Lighthouse con accesibilidad, prácticas recomendadas y SEO en 100. |
 | [**landing_Narbos_peluqueria**](https://github.com/nelsonlondonodev/landing_Narbos_peluqueria) | La landing del caso GEO: arquitectura granular por servicio y ciudad. |
-| [**whatsapp-bot-saas**](https://github.com/nelsonlondonodev/whatsapp-bot-saas) | Bot de WhatsApp como servicio para atención y captación. |
+| [**Waboce**](https://waboce.app/) | Bot de WhatsApp como servicio para la atención y la captación de clientes. En producción. |
 | [**app-web-horarios**](https://github.com/nelsonlondonodev/app-web-horarios) | Gestión de turnos para empresas de hasta 50 empleados. |
 
 ### Hablamos
