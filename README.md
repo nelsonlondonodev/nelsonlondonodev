@@ -63,12 +63,3 @@ pregunta a una IA—, escríbeme.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iamnelsonlondono)
 
 Dios te bendice 🙏🏼
-
----
-
-### ⚡ Actividad reciente
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
