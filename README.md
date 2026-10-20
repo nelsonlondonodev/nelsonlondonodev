@@ -1,33 +1,37 @@
 # Hola, soy Nelson 👋
 
-**Desarrollador web y consultor SEO técnico.** Colombiano 🇨🇴 en Madrid 🇪🇸.
+**Desarrollador web y SEO local.** Colombiano 🇨🇴 en Madrid 🇪🇸.
 
-Construyo webs que cargan rápido, se leen bien y aparecen donde tienen que aparecer:
-en Google y, cada vez más, en las respuestas de ChatGPT, Gemini y Perplexity.
+Hago webs con código que aparecen donde tienen que aparecer: en Google, en Maps y,
+cada vez más, en las respuestas de ChatGPT, Gemini y Perplexity. Uso IA a diario para
+programar más rápido; la estructura, los textos y los datos los decido y los reviso yo.
 
 ---
 
 ### En qué trabajo
 
-- **SEO técnico y datos estructurados.** Schema JSON-LD, arquitectura semántica por
-  intención de búsqueda, consistencia de entidad y validación automatizada.
-- **GEO (Generative Engine Optimization).** Optimizo negocios para que los motores
-  generativos los recomienden. En el caso de [Narbo's Salón Spa](https://narbossalon.com),
-  ChatGPT y Gemini lo sitúan en el puesto #1 de su ciudad por delante de competidores
-  con miles de reseñas.
-- **Rendimiento y accesibilidad.** WCAG 2.1 AA, Core Web Vitals, imágenes servidas al
-  tamaño que se muestran y cero cookies de terceros antes del consentimiento.
+- **SEO local.** Ficha de Google, reseñas y una página por cada servicio que vende el
+  negocio. Con [Narbo's Salón Spa](https://narbossalon.com) empezamos con una landing;
+  a los tres meses pasamos a web con páginas por servicio, SEO local y SEO, y seguimos
+  trabajando juntos.
+- **GEO (Generative Engine Optimization).** Preparo negocios para que los motores
+  generativos los recomienden. ChatGPT y Gemini sitúan a Narbo's en el puesto #1 de su
+  ciudad, por delante de competidores con miles de reseñas.
+- **SEO técnico y datos estructurados.** Schema JSON-LD, arquitectura por intención de
+  búsqueda, consistencia de entidad y validación automatizada.
 - **Automatizaciones con IA.** Bots de WhatsApp y flujos que le quitan horas de trabajo
   manual a negocios pequeños.
+- **Rendimiento y accesibilidad.** WCAG 2.1 AA, Core Web Vitals, imágenes servidas al
+  tamaño que se muestran y cero cookies de terceros antes del consentimiento.
 
 ### Cómo lo construyo
 
-Sin frameworks pesados cuando no hacen falta. HTML semántico, Tailwind CSS y JavaScript o TypeScript
-modular compilado con esbuild, más scripts propios en Node para lo que el proyecto pida:
-cache-busting, generación de sitemap y un validador de datos estructurados que rompe el
-build antes de que un JSON-LD roto llegue a producción. Cuando el proyecto pide
-estado e interfaz de verdad, React, con Supabase detrás para
-persistencia, autenticación y API.
+Sin frameworks pesados cuando no hacen falta. HTML semántico, Tailwind CSS y JavaScript o
+TypeScript modular compilado con esbuild, más scripts propios en Node para lo que el
+proyecto pida: cache-busting, generación de sitemap y un validador de datos estructurados
+que rompe el build antes de que un JSON-LD roto llegue a producción. Cuando el proyecto
+pide estado e interfaz de verdad, React, con Supabase detrás para persistencia,
+autenticación y API.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -45,18 +49,20 @@ persistencia, autenticación y API.
 | Proyecto | Qué es |
 | --- | --- |
 | [**WebAgenciaMkt**](https://github.com/nelsonlondonodev/WebAgenciaMkt) | El sitio de mi agencia. Build propio en Node, validación de datos estructurados dentro del pipeline y auditorías de Lighthouse con accesibilidad, prácticas recomendadas y SEO en 100. |
-| [**landing_Narbos_peluqueria**](https://github.com/nelsonlondonodev/landing_Narbos_peluqueria) | La landing del caso GEO: arquitectura granular por servicio y ciudad. |
+| [**landing_Narbos_peluqueria**](https://github.com/nelsonlondonodev/landing_Narbos_peluqueria) | La web del caso GEO: arquitectura granular por servicio y ciudad. |
 | [**Waboce**](https://waboce.app/) | Bot de WhatsApp como servicio para la atención y la captación de clientes. En producción. |
 | [**app-web-horarios**](https://github.com/nelsonlondonodev/app-web-horarios) | Gestión de turnos para empresas de hasta 50 empleados. |
 
 ### Hablamos
 
-Si tu negocio no aparece donde debería —ni en Google ni cuando alguien se lo pregunta a
-una IA—, escríbeme.
+Si tu negocio no aparece donde debería —ni en Google, ni en Maps, ni cuando alguien se lo
+pregunta a una IA—, escríbeme.
 
 [![Web](https://img.shields.io/badge/nelsonlondono.es-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://nelsonlondono.es/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-londo%C3%B1o-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/iamnelsonlondono)
+
+Dios te bendice 🙏🏼
 
 ---
 
